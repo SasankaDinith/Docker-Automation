@@ -1,4 +1,4 @@
-# CI/CD Pipeline with Docker and Github Actions
+## CI/CD Pipeline with Docker and Github Actions
 
 Here is a comprehensive image of what we are going to implement.
 
